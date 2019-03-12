@@ -1,0 +1,5 @@
+com\gupao\gp16306\pattern\factory\Cat.class
+com\gupao\gp16306\pattern\factory\simplefactory\AnimalFactory.class
+com\gupao\gp16306\pattern\factory\IAnimal.class
+com\gupao\gp16306\pattern\factory\simplefactory\AnimalFactoryTest.class
+com\gupao\gp16306\pattern\factory\Dog.class

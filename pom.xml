@@ -7,9 +7,12 @@
 	<groupId>com.gupaoedu.cn</groupId>
 	<artifactId>gp16306</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<modules>
+		<module>pattern</module>
+	</modules>
+	<packaging>pom</packaging>
 	<name>gp16306</name>
-	<description>Demo project for Spring Boot</description>
+	<description>gp16306作业</description>
 
 	<properties>
 		<java.version>1.8</java.version>

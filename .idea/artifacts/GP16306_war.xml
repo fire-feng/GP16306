@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="GP16306:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>GP16306</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="gp16306-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="GP16306:war exploded" />
+    </root>
+  </artifact>
+</component>

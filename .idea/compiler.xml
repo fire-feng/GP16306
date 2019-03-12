@@ -10,8 +10,8 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="GP16306" target="1.5" />
-      <module name="pattern" target="1.5" />
+      <module name="GP16306" target="8" />
+      <module name="pattern" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>

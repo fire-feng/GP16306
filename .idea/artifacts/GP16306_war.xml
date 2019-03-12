@@ -7,8 +7,6 @@
         <packaging>war</packaging>
       </options>
     </properties>
-    <root id="archive" name="gp16306-0.0.1-SNAPSHOT.war">
-      <element id="artifact" artifact-name="GP16306:war exploded" />
-    </root>
+    <root id="archive" name="gp16306-0.0.1-SNAPSHOT.war" />
   </artifact>
 </component>

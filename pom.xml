@@ -9,7 +9,8 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<modules>
 		<module>pattern</module>
-	</modules>
+        <module>spring1_0</module>
+    </modules>
 	<packaging>pom</packaging>
 	<name>gp16306</name>
 	<description>gp16306作业</description>

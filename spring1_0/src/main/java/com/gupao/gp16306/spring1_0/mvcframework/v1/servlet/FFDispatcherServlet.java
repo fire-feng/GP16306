@@ -28,7 +28,7 @@ public class FFDispatcherServlet extends HttpServlet {
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {        this.doPost(req,resp);    }
 
     @Override
-    protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+    protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws IOException {
         try {
             doDispath(req, resp);
         }catch (Exception e) {
@@ -118,7 +118,7 @@ public class FFDispatcherServlet extends HttpServlet {
             }
         } catch (Exception e) {
             //不明白这里为何添加打印错误日志信息，就报错。
-      //      e.printStackTrace();
+            e.printStackTrace();
         } finally {
             if(is != null) {
                 try {   is.close();   } catch (Exception e){

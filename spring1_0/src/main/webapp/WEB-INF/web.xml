@@ -7,7 +7,7 @@
 	<display-name>Gupao Web Application</display-name>
 	<servlet>
 		<servlet-name>gpmvc</servlet-name>
-		<servlet-class>com.gupao.gp16306.spring1_0.mvcframework.v1.servlet.FFDispatcherServlet</servlet-class>
+		<servlet-class>com.gupao.gp16306.spring1_0.mvcframework.v2.servlet.FFDispatcherServlet</servlet-class>
 		<init-param>
 			<param-name>contextConfigLocation</param-name>
 			<param-value>jsbss.properties</param-value>

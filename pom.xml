@@ -10,7 +10,11 @@
 	<modules>
 		<module>pattern</module>
         <module>spring1_0</module>
-    </modules>
+		<module>spring2_0</module>
+        <module>mybatis</module>
+		<module>thread</module>
+		<module>distributed</module>
+	</modules>
 	<packaging>pom</packaging>
 	<name>gp16306</name>
 	<description>gp16306作业</description>

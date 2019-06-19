@@ -14,7 +14,8 @@
         <module>mybatis</module>
 		<module>thread</module>
 		<module>distributed</module>
-	</modules>
+        <module>netty</module>
+    </modules>
 	<packaging>pom</packaging>
 	<name>gp16306</name>
 	<description>gp16306作业</description>

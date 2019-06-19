@@ -1,7 +1,7 @@
 package com.gupao.gp16306.pattern.spring.aop.service;
 
 
-import com.gupaoedu.vip.pattern.spring.aop.model.Member;
+import com.gupao.gp16306.pattern.spring.aop.model.Member;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
 
